@@ -1,0 +1,28 @@
+{
+  "name": "todo-list-auth-and-mongoose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.12.10",
+    "morgan": "^1.10.0",
+    "react-router-dom": "^5.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lisab1993/Todo-List-Auth-and-Mongoose.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lisab1993/Todo-List-Auth-and-Mongoose/issues"
+  },
+  "homepage": "https://github.com/lisab1993/Todo-List-Auth-and-Mongoose#readme"
+}
